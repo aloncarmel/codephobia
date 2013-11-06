@@ -1,5 +1,5 @@
-------------------------------------------------------------
 Codephobia will curate the best content i can find around technology, code and usability, best articles, code examples and cutting edge technologies in the market.
+------------------------------------------------------------
 
 My pledge for this magazine is:
 ------------------------------------------------------------
